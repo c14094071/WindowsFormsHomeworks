@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\桌面\大二\視窗程式設計\Week4_p1_template\Week4_p1_template\obj\Debug\Week4_p1_template.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\桌面\大二\視窗程式設計\Week4_p1_template\Week4_p1_template\obj\Debug\Week4_p1_template.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\桌面\大二\視窗程式設計\Week4_p1_template\Week4_p1_template\bin\Debug\Week4_p1_template.exe.config
+C:\Users\user\OneDrive\桌面\大二\視窗程式設計\Week4_p1_template\Week4_p1_template\bin\Debug\Week4_p1_template.exe
+C:\Users\user\OneDrive\桌面\大二\視窗程式設計\Week4_p1_template\Week4_p1_template\bin\Debug\Week4_p1_template.pdb
+C:\Users\user\OneDrive\桌面\大二\視窗程式設計\Week4_p1_template\Week4_p1_template\obj\Debug\Week4_p1_template.exe
+C:\Users\user\OneDrive\桌面\大二\視窗程式設計\Week4_p1_template\Week4_p1_template\obj\Debug\Week4_p1_template.pdb
+C:\Users\user\OneDrive\桌面\大二\視窗程式設計\C14094071_W4_practice_1\Week4_p1_template\bin\Debug\Week4_p1_template.exe.config
+C:\Users\user\OneDrive\桌面\大二\視窗程式設計\C14094071_W4_practice_1\Week4_p1_template\bin\Debug\Week4_p1_template.exe
+C:\Users\user\OneDrive\桌面\大二\視窗程式設計\C14094071_W4_practice_1\Week4_p1_template\bin\Debug\Week4_p1_template.pdb
+C:\Users\user\OneDrive\桌面\大二\視窗程式設計\C14094071_W4_practice_1\Week4_p1_template\obj\Debug\Week4_p1_template.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\桌面\大二\視窗程式設計\C14094071_W4_practice_1\Week4_p1_template\obj\Debug\Week4_p1_template.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\桌面\大二\視窗程式設計\C14094071_W4_practice_1\Week4_p1_template\obj\Debug\Week4_p1_template.exe
+C:\Users\user\OneDrive\桌面\大二\視窗程式設計\C14094071_W4_practice_1\Week4_p1_template\obj\Debug\Week4_p1_template.pdb
